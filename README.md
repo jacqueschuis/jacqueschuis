@@ -1,18 +1,14 @@
-<div style="display:flex; max-height:300px">
-<img src="./img/devlogo.png">
-<h1> Hi there, I'm <a href="https://j-par.com">Jacques Pariseau</a></h1>
-</div>
-<!--
-**jacqueschuis/jacqueschuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](./img/githubBanner.png)
 
-Here are some ideas to get you started:
+## I'm a current digital marketing specialist looking to dive into the world of frontend engineering. I have a background in graphic design, and I love to use my design skills to make impactful, beautiful UIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: I've deployed apps using: 
+    - HTML and CSS
+    - Vanilla JS and Node 
+    - Express
+    - MongoDB and Mongoose
+    - Tailwind CSS and Bootstrap 
+    - Next JS and React
+
+### :school: I’m currently learning more about React and exprimenting with different frameworks
+
