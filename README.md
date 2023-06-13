@@ -23,9 +23,9 @@
 <details>
     <summary>:world_map: Available in:</summary>
 
-    - :us: :uk: English
-    - :fr: Français
-    - :cn: 中文
+    - English
+    - Français
+    - 中文
 </details>
 
 <details>
