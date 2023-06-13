@@ -1,6 +1,6 @@
-<div style="display:flex">
-![](./img/devlogo.png)
-### Hi there, I'm <a href="https://j-par.com">Jacques Pariseau</a>
+<div style="display:flex; max-height:300px">
+<img src="./img/devlogo.png">
+<h1> Hi there, I'm <a href="https://j-par.com">Jacques Pariseau</a></h1>
 </div>
 <!--
 **jacqueschuis/jacqueschuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
